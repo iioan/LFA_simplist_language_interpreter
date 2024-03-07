@@ -1,5 +1,6 @@
 # Teme LFA - Formal Languages and Automata Assignments
 Ioan Teodorescu (333CB)
+
 This repository contains all 4 assignments completed for the Formal Languages and Automata course.
 
 The assignments cover various aspects of theoretical computer science, specifically focusing on formal languages and automata:
